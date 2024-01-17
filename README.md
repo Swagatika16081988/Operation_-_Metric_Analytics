@@ -1,1 +1,7 @@
 # Operation_-_Metric_Analytics
+
+Operational Analytics stands as a pivotal process essential for comprehensively examining a company's end-to-end operations. In this capacity, me, as a Data Analyst, will collaborate closely with diverse teams, including operations, support, and marketing, aiding them in extracting valuable insights from the data they gather.
+
+A critical focus within Operational Analytics revolves around scrutinizing metric spikes, which entails comprehending and elucidating abrupt shifts in crucial metrics. These fluctuations could range from a decline in daily user engagement to a dip in sales figures. As a Data Analyst, daily responsibility involves addressing these inquiries, underscoring the necessity of adeptly investigating and explaining these metric spikes.
+
+Assuming the role of a Lead Data Analyst in a company akin to Microsoft, this project unfolds with the provision of various datasets and tables. Your mandate is to employ advanced SQL skills to delve into this data, extracting insights that can address inquiries from different departments within the company. The ultimate objective is to furnish valuable insights that contribute to refining the company's operations and unraveling the nuances behind sudden changes in key metrics. Through this analysis, I play a pivotal role in enhancing operational efficiency and fostering a nuanced understanding of the company's performance.
